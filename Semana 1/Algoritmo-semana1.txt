@@ -1,0 +1,12 @@
+Definir la información a compartir
+Analizar el contenido 
+Verificar la fuente:
+   SI la fuente es desconocida O poco confiable
+      ENTONCES detener proceso
+   Revisar la fecha de publicación
+   Confirmar la información:Buscar en múltiples fuentes (mínimo 3)
+   Evaluar sesgos personales y cuestionar la emoción frente a la noticia o información
+   Buscar evidencia 
+   Citar la fuente original
+   Reflexionar
+   Compartir la información 
